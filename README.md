@@ -8,7 +8,7 @@ docker run ricardoqm/calculadora:latest
 
 ```
 
-* Fracción - Comando para su despliegue:
+* Fracción - Comandos para su despliegue. Cada equipo coloca aquí el comando docker para el despliegue de su aplicación en producción:
 ```
 docker 
 
