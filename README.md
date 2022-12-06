@@ -2,13 +2,13 @@
 
 Repositorio simulador de ambiente de Producción
 
-* Calculadora - Comando para su despliegue:
+* **Calculadora** - Comando para su despliegue:
 ```
 docker run ricardoqm/calculadora:latest
 
 ```
 
-* Fracción - Comandos para su despliegue. Cada equipo coloca aquí el comando docker para el despliegue de su aplicación en producción: 
+* **Fracción** - Comandos para su despliegue. Cada equipo coloca aquí el comando docker para el despliegue de su aplicación en producción: 
 **(Haga un Pull Request para solicitar la incorporación de su comando a este README)**
 
 **Equipo-1**
