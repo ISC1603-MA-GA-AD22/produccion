@@ -21,7 +21,7 @@ docker ...
 ```
 **Equipo-3**
 ```
-docker run EstebanTeranMarino/fracciones3:latest
+docker ...
 ```
 **Equipo-4**
 ```
