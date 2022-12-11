@@ -17,7 +17,7 @@ docker ...
 ```
 **Equipo-2**
 ```
-docker ...
+docker run andresaggitc/fraccion-2:latest
 ```
 **Equipo-3**
 ```
