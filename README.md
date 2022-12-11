@@ -21,7 +21,7 @@ docker run andresaggitc/fraccion-2:latest
 ```
 **Equipo-3**
 ```
-docker ...
+docker run estebantm/fraccion3:latest
 ```
 **Equipo-4**
 ```
