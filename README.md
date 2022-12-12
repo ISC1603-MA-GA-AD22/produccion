@@ -25,5 +25,5 @@ docker run estebantm/fraccion3:latest
 ```
 **Equipo-4**
 ```
-docker ...
+docker run elblueray/fraccion4:latest
 ```
