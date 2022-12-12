@@ -13,8 +13,7 @@ docker run ricardoqm/calculadora:latest
 
 **Equipo-1**
 ```
-docker run aveces/fraccion1:latest```
-docker ...
+docker run aveces/fraccion1:latest
 ```
 **Equipo-2**
 ```
